@@ -29,7 +29,7 @@ p {
 }
 header::after {
   content: "";
-  background: url(http://walpix.net/image.php?id=4807&width=1280&height=720&crop=crop);
+  background: url(../img/header-bg-min.jpeg);
   background-size: cover;
   height: 100%;
   opacity: 0.6;
